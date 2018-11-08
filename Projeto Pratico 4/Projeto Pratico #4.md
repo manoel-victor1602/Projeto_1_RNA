@@ -57,19 +57,6 @@ df.corr()
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -174,19 +161,6 @@ df.corr()
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -262,7 +236,7 @@ A partir da análise do gráfico de dispersão acima, é possível notar que ape
 # 2. Função Pirâmide, Parâmetros e Hiperparâmetros
 
 A função **piramid()** retorna uma lista de tuplas contendo todas as possíveis combinações de neurônios aceitáveis pelo parâmetro **hidden_layer_sizes**  de acordo com a regra da piramide geométrica:
-$$ N_{h} = \alpha \cdot \sqrt{N_{i} \cdot N_{o}}$$
+![img](http://latex.codecogs.com/svg.latex?%24%24%20N_%7Bh%7D%20%3D%20%5Calpha%20%5Ccdot%20%5Csqrt%7BN_%7Bi%7D%20%5Ccdot%20N_%7Bo%7D%7D%24%24)
 
 
 ```python
