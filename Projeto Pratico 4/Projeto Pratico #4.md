@@ -223,7 +223,7 @@ plt.legend()
 
 
 
-    <matplotlib.legend.Legend at 0x1f5ef2af2b0>
+ 
 
 
 
