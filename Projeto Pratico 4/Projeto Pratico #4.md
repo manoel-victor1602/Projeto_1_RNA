@@ -1,14 +1,14 @@
 
 # Projeto Prático 4
 
-Alunos:
-- Manoel Victor Florencio de Souza
-- Sérgio Alexandre Arruda Pinheiro
+### Alunos:
+- <a href="https://github.com/manoel-victor1602">Manoel Victor Florencio de Souza</a>
+- <a href="https://github.com/SergioPinheiro">Sérgio Alexandre Arruda Pinheiro</a>
 
-Base de Dados:
+### Base de Dados:
 
-    A base de dados usada pode ser encontrada no Kaggle através do seguinte link: 
-    https://www.kaggle.com/rwzhang/seeds-dataset
+A base de dados usada pode ser encontrada no Kaggle através do link: 
+https://www.kaggle.com/rwzhang/seeds-dataset
 
 
 ```python
